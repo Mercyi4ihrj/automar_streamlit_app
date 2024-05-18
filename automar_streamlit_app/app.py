@@ -1,3 +1,6 @@
+---
+permalink: https://mercyi4ihrj.github.io/automar_streamlit_app/
+---
 import streamlit as st
 import pandas as pd
 
